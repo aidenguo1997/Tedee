@@ -2,7 +2,7 @@ Feature: Get Tedee API information.
 
   Background:
     * def testVersion = 0
-    * def personalKey = "PersonalKey your personalKey"
+    * def personalKey = "xoVLgv.0iYNVLXYXKdiQsW0KaAtFCB4/xaV9FZM/H0qkbvhm4o="
 
   Scenario: Get signed time.
     Given   url "https://api.tedee.com/"
